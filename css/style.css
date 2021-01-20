@@ -1,0 +1,9 @@
+img { 
+    width: 400px;
+    height: 300px;
+}
+.alert{ 
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
